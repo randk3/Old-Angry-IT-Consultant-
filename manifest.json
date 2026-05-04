@@ -1,0 +1,10 @@
+{
+  "name": "Old Angry IT Consulting AI Agent",
+  "short_name": "Old Angry AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "description": "An IT consulting website with an AI-style consulting agent.",
+  "icons": []
+}
