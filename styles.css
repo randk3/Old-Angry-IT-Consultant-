@@ -89,6 +89,7 @@ body {
   border-radius: 14px;
   height: 360px;
   overflow-y: auto;
+  scroll-behavior: smooth;
   padding: 1rem;
   display: flex;
   flex-direction: column;
