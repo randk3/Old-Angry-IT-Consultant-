@@ -58,3 +58,9 @@ The project will be hosted on GitHub Pages. The repository will include `index.h
 
 ## GitHub Repository
 https://github.com/randk3/Old-Angry-IT-Consultant-.git
+
+## Reflection
+
+This project demonstrates how AI-powered interaction can be integrated into an IT consulting website to improve user engagement and provide real-time guidance. I focused on creating a clean, responsive design while enhancing the user experience through interactive features such as the consultation chat, quick prompts, and dynamic responses.
+
+The addition of the AI consultation feature simulates how businesses can leverage automation to streamline support processes and guide users toward practical IT solutions. Overall, this project reflects modern web development practices, combining responsive design, interactivity, and emerging technologies.
