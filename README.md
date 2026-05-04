@@ -54,7 +54,7 @@ The project will be hosted on GitHub Pages. The repository will include `index.h
 - Prepare project for deployment
 
 ## Live URL
-Add your deployed GitHub Pages link here.
+ https://randk3.github.io/Old-Angry-IT-Consultant-/
 
 ## GitHub Repository
 Add your GitHub repository link here.
