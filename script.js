@@ -97,7 +97,7 @@ function Agent() {
   return `<main class="container page-section">
     <section class="mb-4">
       <h1>Consultation Chat</h1>
-      <p>Chat with us to discuss your business technology challenges and receive practical recommendations for IT support, security improvements, system performance, and workflow optimization.</p>
+      <p>Chat with us to discuss your business technology challenges and receive guided IT consulting recommendations.</p>
     </section>
 
     <section class="ai-panel">
