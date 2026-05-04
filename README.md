@@ -57,4 +57,4 @@ The project will be hosted on GitHub Pages. The repository will include `index.h
  https://randk3.github.io/Old-Angry-IT-Consultant-/
 
 ## GitHub Repository
-Add your GitHub repository link here.
+https://github.com/randk3/Old-Angry-IT-Consultant-.git
